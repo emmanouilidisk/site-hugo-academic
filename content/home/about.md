@@ -1,21 +1,18 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget: About
+widget_id: About
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+I am a first-year Ph.D. student in the Department of Computer Science at Johns Hopkins University (JHU) advised by Professor Nicolas Loizou and Professor Rene Vidal. 
+
+My research interests lie in the intersection of algorithms for machine learning, optimization and theoretical computer science. Specifically, I am interested in designing efficient algorithms for optimization and machine learning tasks. Lately,  I have been working on min-max optimization!
+
+Before coming to the States, I worked with Professor Dimitris Fotakis and Professor Pavlos Efraimidis on the intersection of theoretical computer science and opinion dynamics. I obtained my joint BSc & MSc in Electrical and Computer Engineering from Democritus University of Thrace (DUTH).
+
+
+
+You can find my CV here (last update 10 September).
